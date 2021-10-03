@@ -1,5 +1,5 @@
 [Unit]
-Description= iot service sends messages to azure iot hub /home/pi/code/js/azureiot_device
+Description= iot service sends messages to azure iot hub from a NodeJS app
 After=network.target
 
 [Service]
